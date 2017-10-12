@@ -4,7 +4,7 @@
 //////////////////////////
 
 //Your E-mail
-$your_email = 'your@mail.com';
+$your_email = 'nhocchi1994@mail.com';
 
 //Default Subject if 'subject' field not specified
 $default_subject = 'From My Contact Form';
