@@ -1,2 +1,1 @@
-<?php include_once("home.html")
-      include(/include/sendmail.php)?>
+<?php include_once("home.html")?>
